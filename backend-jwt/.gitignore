@@ -1,0 +1,5 @@
+package.lock.json
+yarn.lock
+.env
+.vscode
+node_modules
